@@ -1,0 +1,4 @@
+COMANDO ls
+opcion -all: nos muestra todos los archivos, ya sean ocultos o visibles.
+opcion -l: nos muestra de una manera detalla y larga los diferentes tipos de archivos.
+opcion -R: nos muestra recursivamente el archivo mencionado

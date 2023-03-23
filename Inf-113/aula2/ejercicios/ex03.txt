@@ -1,0 +1,3 @@
+cp --> -update: copia solamnete cuando el fichero origen es mas actualizado que el fichero destino.
+mkdir --> -v: muestra un mensaje diciendo el directorio creado.
+rm --> -i: pregunta antes de borrar, asi vemos si en verdad queremos borrar el fichero.

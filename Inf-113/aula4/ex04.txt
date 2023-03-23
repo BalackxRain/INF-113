@@ -1,0 +1,11 @@
+COMANDO TOP
+Este comando nos muestra un monitor sencillo de procesos que nos permite obtener una lectura en tiempo real de una
+cantidad diversa de nuestro GNU/LINUX y del consumo de recursos que este esta llevando a cabo, el cual muestra con-
+sumo de memoria, de los CPUs, la cantidad de usuarios, etc.
+Entre sus opciones mas relevantes estan:
+-N ordenas los procesos por PID
+-A ordena los procesos por a parición, primero se encuentran los mas nuevos.
+-P ordena los procesos por uso de CPU
+-M ordena los procesos por memoria residente
+-T ordena los procesos por tiempo
+

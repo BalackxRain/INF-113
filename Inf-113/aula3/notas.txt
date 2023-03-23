@@ -1,0 +1,6 @@
+- cat nombres.txt | sort --> ordena los elementos del archivo alfabeticamente
+- cat nombres.txt | sort uniq --> ordena y nos muestra los elementos una sola vez, no incluye palabras repetidas
+- cat nombres.txt | sort | uniq -c --> nos muestra cuantas veces esta repetida una palabra, ademas de ordenarla
+- cat nombres.txt | sort | head -n 3 --> nos muestra las primeras 3 lineas de nuestro archivo.
+- cat nombres.txt | sort | tail -n 3 --> nos muestra las ultimas 3 lineas de nuestro archivo.
+- cat nombres.txt | sort | head -n 3 > tres_primeros.txt --> nos crea un archivo con las  3 primeras lineas de nombres.txt.
