@@ -1,0 +1,13 @@
+grep: /tmp/snap-private-tmp: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-colord.service-cxUJoL: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-ModemManager.service-zlgQlM: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-power-profiles-daemon.service-110sUG: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-switcheroo-control.service-qsHogD: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-systemd-logind.service-6UtPOJ: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-systemd-oomd.service-jNerJv: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-systemd-resolved.service-Lskkc7: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-systemd-timesyncd.service-UUJu1K: Permiso denegado
+grep: /tmp/systemd-private-fee26fcbbc82420a8ffad9eaa8aef191-upower.service-fqBGKW: Permiso denegado
+grep: /tmp/tracker-extract-3-files.1000: Es un directorio
+grep: /tmp/tracker-extract-3-files.128: Permiso denegado
+grep: /tmp/VMwareDnD: Es un directorio
