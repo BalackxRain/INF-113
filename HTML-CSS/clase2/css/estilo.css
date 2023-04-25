@@ -1,0 +1,32 @@
+body{
+	background: rgb(251,251,251);
+	background: linear-gradient(90deg, rgba(251,251,251,1) 0%, rgba(172,241,255,1) 46%, rgba(81,226,255,1) 100%, rgba(200,238,241,1) 3900%);
+	}
+
+#p1{
+	font-size: 25px;
+	font-style: italic;
+	}
+#p2{
+	background-color: #27F7C4;
+	font-size: 20px;
+	text-align: left;
+	color: ;
+	}
+table{
+	border-collapse: collapse;
+	}
+th{
+	font-size: 25px;
+	color: #0B3E32;
+	background-color: #27F7C4;
+	}
+td{
+	background-color: #B3F0E1 ;
+	font-size: 20px;
+	text-align: center;
+	}
+#nuevo{
+	font-family: Verdana;
+	text-align: left;
+}

@@ -1,0 +1,21 @@
+body{
+	background-color:  #2d376e;
+	font-family: Arial, Verdana;
+	font-size: 20px;
+}
+
+h1 {
+	color: #2f46c4;
+	font-size: 36px;
+	text-align: ;
+}
+
+p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+
+input{
+	font-size: 20px;
+}
