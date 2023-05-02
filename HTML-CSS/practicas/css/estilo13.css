@@ -1,0 +1,12 @@
+#one{
+    list-style-type: none;
+    }
+#two{
+    list-style-type: circle;
+}
+#four{
+    list-style-type: lower-roman;
+}
+#five{
+    list-style-type: lower-greek;
+}
