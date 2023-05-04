@@ -1,0 +1,52 @@
+header{
+    margin: 0 80px;
+}
+
+.container{
+    margin: 1em ;  
+}
+ul{
+    list-style: none;
+    margin: 0 1.5em;
+}
+ul li{
+    border-top: 1px solid #CCC;
+    margin: 1em 0;
+    padding: 30px;
+    width: auto;
+}
+ul li span{
+    font-weight: bold;
+    float: left;
+    width: 150px;
+    text-align: right;  
+}
+ul li div.campo{
+    margin-left: 170px;
+}
+ul li div label {
+    display: block;
+    font-size: 12px;
+    color: #333;
+    margin: 3px;
+
+}
+ul li div input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+ul li:hover {
+    background-color: #FF9;
+}
+#boton{
+    float: right;
+}
+#btn{
+    font-size: 15px;
+    border: none;
+}
+
+
+
+  
