@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ex01</title>
+	<script>
+		do {
+			var n = parseInt(prompt("Ingresa un numero mayor a 0 y menor a 1000: "));
+		} while (n<=0 || n>1000);
+
+		let c = 0;
+		for (i=1;i<=n;i++) {
+			if (n % i == 0) {
+				c = c + 1; 
+			}
+		}
+		if (c == 2) {
+			document.write(`${n} es primo.`);
+		} else {
+			document.write(`${n} no es primo.`);
+		}
+
+
+		
+	</script>
+</head>
+<body>
+
+</body>
+</html>
